@@ -1,0 +1,29 @@
+_repo: Stories-from-the-Iliad_43993
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43993-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Havell, H. L. (Herbert Lord)
+    alias: Havell, Herbert Lord
+    deathdate: 1913
+    gutenberg_agent_id: '2966'
+    url: http://www.gutenberg.org/2009/agents/2966
+description: ''
+gutenberg_issued: '2013-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Achilles (Mythological character) -- Fiction'
+- !lcsh 'Tales -- Greece'
+- !lcsh 'Trojan War -- Fiction'
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Greek -- Adaptations'
+title: Stories from the Iliad
+url: http://www.gutenberg.org/ebooks/43993
